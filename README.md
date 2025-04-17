@@ -4,8 +4,6 @@
 - 🌱 Estudando Ciências de Dados
 - 😄 Pronome: ela/dela
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kahbps&theme=midnight-purple&hid=contribs,prs&hide=stars,issues)
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Ka-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Ka-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
